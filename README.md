@@ -1,0 +1,1 @@
+Trying out different methods for sentiment analysis, starting from statistical models, to deep learning models like cnns, although the current state of the art is Transformers it is fun to try different old methods to get to see how things matured.
